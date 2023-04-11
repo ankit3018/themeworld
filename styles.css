@@ -549,3 +549,32 @@
     margin: 130px 0px 0px 200px ;
     
 }
+.main-con{
+    box-shadow: 5px  10px 7px  5px rgba(90, 88, 88, 0.9);
+    position: fixed;
+    margin: -640px 50px 0px 200px; 
+    background-color: rgb(255, 247, 247);
+    padding: 15px 10px 15px 50px;
+    justify-content:center ;
+}
+.main-co{
+    display: flex; 
+    margin-left: 600px;
+    margin-top: -25px;
+    text-decoration: none;
+    /* box-shadow: 5px  10px 7px  5px rgba(90, 88, 88, 0.9); */
+    /* border: 2px solid black; */
+}
+
+.anchor{
+    font-size: 18px;
+    font-weight: 550;
+    padding-right: 55px;
+    color: rgb(0, 0, 0);
+    
+    text-decoration: none;
+}
+
+
+
+
