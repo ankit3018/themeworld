@@ -509,6 +509,8 @@
 .instagram{
     font-size: 30px;
     padding-top: 10px;
+    text-decoration: none;
+    color: black;
 }
 .logo-insta{
     font-size: 60px;
