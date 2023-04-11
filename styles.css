@@ -9,6 +9,14 @@
     margin-left: 60px;
     /* font-weight: bold;*/
 } 
+.main-h{
+    box-shadow: 5px  10px 7px  5px rgba(90, 88, 88, 0.9);
+    position: fixed;
+    margin: -220px 50px 0px 200px; 
+    background-color: rgb(255, 247, 247);
+    padding: 0px 00px 15px 0px;
+    justify-content:center ;
+}
 .main{
     display: flex; 
     margin-left: 600px;
