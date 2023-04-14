@@ -574,7 +574,9 @@
     
     text-decoration: none;
 }
-
+@-ms-viewport{
+    width: device-width;
+  }
 
 
 
