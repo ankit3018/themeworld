@@ -66,6 +66,45 @@
     margin-left: 60px;
     font-size: 35;
 }
+.animation{
+    margin: -30% 55% ;
+    z-index: -9;
+    
+}
+.gif{
+    margin: 100px 0px 90px 30px;
+}
+.gif1{
+    padding: 0px 35px 0px 50px;
+}
+.gif2{
+    padding: 0px 35px 0px 0px;
+}
+.gif3{
+    padding: 0px 0px 0px 0px;
+}
+.main-btn{
+    margin: 0% 0% 5% 31%;
+    padding: 20px 200px 20px 200px ;
+    background-color: blue;
+}
+.btn-link{
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 .parent-img{
     display: flex;
     margin-top: 60px;
